@@ -8,7 +8,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"DBCode.dbcode"
+				"dbcode.dbcode"
 			]
 		}
 	}
