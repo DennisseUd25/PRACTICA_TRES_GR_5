@@ -1,7 +1,7 @@
 {
     "dbcode.connections": [
         {
-            "connectionId": "99TjX4X4NsYbpz5cRPXIv",
+            "connectionId": "sgCuVifgqoNIqKGbyLfzh",
             "name": "conexion_practica_tres_gr_5",
             "driver": "postgres",
             "connectionType": "host",
@@ -11,7 +11,7 @@
             "username": "postgres",
             "password": "",
             "savePassword": "secretStorage",
-            "database": "bdd_threats_cybersecurity",
+            "database": "postgres",
             "readOnly": false,
             "connectionTimeout": 30
         }
