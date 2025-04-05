@@ -1,0 +1,15 @@
+cells:
+  - kind: 1
+    languageId: markdown
+    value: "# Consulta a la Base de Datos"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: SELECT * FROM cyber_threats
+    metadata: {}
+metadata:
+  conn:
+    id: sgCuVifgqoNIqKGbyLfzh
+    name: conexion_practica_tres_gr_5
+  database: bdd_threats_cybersecurity
+  schema: public
