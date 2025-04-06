@@ -8,7 +8,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"dbcode.dbcode"
+				"dbcode.dbcode",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	}
